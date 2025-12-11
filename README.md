@@ -1,2 +1,2 @@
-# Small_app_backend
+# Deegle_backend
 Builing the seamless end to end chat app
